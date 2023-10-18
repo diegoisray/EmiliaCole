@@ -1,0 +1,33 @@
+.titulo{
+    background-color: rgba(221, 217, 217, 0.269);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subtitulo{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 6px;
+}
+
+.navegador{
+       color: gray;
+    line-height: 30px;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: arial;
+    
+}
+
+a{
+    color: black;
+}
+
+
+
+
+
+
+
+   

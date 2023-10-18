@@ -1,0 +1,42 @@
+nav{
+    background-image: url('/img/emilia-music-top.jpg');
+   text-align: right;
+}
+
+div{
+    background-color: rgba(255, 247, 247, 0.336);
+    height: 20px;
+    text-align: right;
+    padding: 10px;
+    font-family: Arial;
+    
+}
+
+
+.secciones{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.redes{
+    color: black;
+}
+
+
+.titulo{
+    font-family: Arial;
+    font-size: 60px;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.links{
+    list-style-type: none;
+    font-family: Arial;
+}

@@ -1,0 +1,41 @@
+.navegador{
+    background-color: rgba(43, 42, 42, 0.096);
+    height: 50px;
+    text-align: right;
+    padding: 10px;
+    font-family: arial;
+  
+}
+
+.redes{
+    text-align: right;
+}
+
+a{
+    color: black;
+}
+
+.secciones{
+    text-decoration: none;
+    
+    font-size: 15px;
+}
+
+
+.titulo{
+    font-family: arial;
+    font-size: 70px;
+    text-align: left;
+
+
+}
+p{
+    color: rgb(27, 163, 108);
+    font-size: 27px;
+    font-family: Arial;
+}
+
+h4{
+    color: rgb(27, 163, 108);
+    font-family: Arial;
+}
