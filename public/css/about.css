@@ -1,41 +1,56 @@
-.navegador{
-    background-color: rgba(43, 42, 42, 0.096);
-    height: 50px;
-    text-align: right;
-    padding: 10px;
-    font-family: arial;
-  
+.nav_links li{
+    display: inline;
+    font-size: 20px;
+    padding: 0.4%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.fondo{
+    background-color: rgba(255, 255, 255, 0.584);
+    padding: 0.2%;
 }
 
-.redes{
+
+.link{
+    text-decoration: none;
+    color: black;
     text-align: right;
 }
 
-a{
+.caja_redes li {
+    display: inline;
+}
+
+.link_redes{
+    text-align: right;
     color: black;
 }
 
-.secciones{
-    text-decoration: none;
-    
-    font-size: 15px;
-}
-
-
-.titulo{
+.about_titulo{
     font-family: arial;
     font-size: 70px;
     text-align: left;
 
 
 }
-p{
-    color: rgb(27, 163, 108);
-    font-size: 27px;
+.about_p{
+    color: rgb(39, 144, 134);
+    font-size: 29px;
     font-family: Arial;
+    padding: 1%;
 }
 
-h4{
-    color: rgb(27, 163, 108);
+.about_h4{
+    color: rgb(39, 144, 134);
     font-family: Arial;
+    padding: 0.7%;
+}
+
+
+.about_body{
+    background-image: url('/img/emilia-home.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 50%;
+    background-size: 78%
 }

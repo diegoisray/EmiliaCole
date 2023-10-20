@@ -1,42 +1,28 @@
-nav{
+.music_header{
     background-image: url('/img/emilia-music-top.jpg');
-   text-align: right;
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+   padding: 15px;
+   
 }
-
-div{
-    background-color: rgba(255, 247, 247, 0.336);
-    height: 20px;
-    text-align: right;
+.music_caja_secciones{
+    background-color: rgba(255, 247, 247, 0.511);
     padding: 10px;
-    font-family: Arial;
-    
 }
 
-
-.secciones{
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-    
-}
-
-.redes{
-    color: black;
-}
-
-
-.titulo{
-    font-family: Arial;
+.music_titulo{
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 60px;
 }
 
-a{
+.music_a{
     color: gray;
     text-decoration: none;
     font-family: Arial;
 }
 
-.links{
+.music_links{
     list-style-type: none;
     font-family: Arial;
+    
 }

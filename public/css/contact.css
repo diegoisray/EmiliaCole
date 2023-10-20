@@ -1,45 +1,26 @@
-.secciones{
-    font-family: Arial;
-    text-decoration: none;
-   color: black;
-   list-style-type: none;
-}
 
-nav{
-    text-align: right;
-}
-
-
-.info{
+.contact_info{
         color: gray;
         text-decoration: none;
         font-family: arial;
-        
+       
     
 }
 
 
-.contacto{
+.contact_contacto{
     font-family: Arial;
     color: rgb(11, 146, 117);
     font-weight: normal;
 }
 
 
-.redes{
-    text-align: right;
-
-}
-.red{
-    color: black;
-}
-
-.titulo{
+.contact_titulo{
    font-family: arial;
    font-size: 60px;
 }
 
-.subtitulo{
+.contact_subtitulo{
     font-family: Arial;
     font-size: 20px
 }
