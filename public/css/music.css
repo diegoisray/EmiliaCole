@@ -1,13 +1,10 @@
 .music_header{
     background-image: url('/img/emilia-music-top.jpg');
+    height: 120px ;
     background-repeat: no-repeat;
     background-size: 100%, 100%;
-   padding: 15px;
-   
-}
-.music_caja_secciones{
-    background-color: rgba(255, 247, 247, 0.511);
-    padding: 10px;
+    padding: 0.2%;
+    padding-top: 2%;
 }
 
 .music_titulo{

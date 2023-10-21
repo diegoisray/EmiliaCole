@@ -1,0 +1,27 @@
+.nav_links li{
+    display: inline;
+    font-size: 18px;
+    padding: 0.4%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.fondo{
+    background-color: rgba(255, 255, 255, 0.584);
+    padding: 0.2%;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+
+.caja_redes li {
+    display: inline;
+}
+
+.link_redes{
+    text-align: right;
+    color: black;
+    margin-right: 0.2%;
+}
